@@ -6,7 +6,7 @@ The "femurly" repository contains the "femur from Italy" better know as the "Sta
 
 The "standardized femur" is a 3D surface triangulation of the left human femur.  
 
-![std2_3_IGES_Surfaces.igs.png](fig/std2_3_IGES_Surfaces.igs.png)
+![std2_3_IGES_Surfaces.igs.png](doc/fig/std2_3_IGES_Surfaces.igs.png)
 
 ## References
 

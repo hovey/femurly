@@ -1,0 +1,7 @@
+2021-06-30
+
+* Get the source .jou file checked in that creates the quad surface mesh in Cubit.
+* Check in the .cub file.
+* Screen shot of external surface.
+
+
