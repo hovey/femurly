@@ -20,3 +20,4 @@ The "standardized femur" is a 3D surface triangulation of the left human femur.
     * Professore Ordinario. Dipartimento di Ingegneria Industriale, Alma Mater Studiorum – Università di Bologna. Via Terracini 24, 40131 Bologna (IT). marco.viceconti@unibo.it.
     j:w
     * Direttore, Laboratorio di Tecnologia Medica, IRCCS Istituto Ortopedico Rizzoli. Via di Barbiano 1/10, 40136 Bologna (IT), marco.viceconti@ior.it.
+* [Voo 2004](doc/Voo_2004_stress_fracture_risk_analysis_proximal_femur.pdf) stress fracture risk analyais proximal femur
